@@ -1,0 +1,4 @@
+station_uuid: '474e5046-deaf-4f9b-9a32-2d8a1b0ae8ab'
+data_paths:
+  raw: '/root/tankerkoenig-data/data'
+  processed: 'data/processed_prices.csv'
